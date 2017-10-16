@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "InQuest",
+    "id": {
+      "group": null,
+      "name": "TA-inquest",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "InQuest Labs",
+        "email": "support@inquest.net",
+        "company": "InQuest"
+      }
+    ],
+    "releaseDate": null,
+    "description": "Ingest InQuest logs from Splunk",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "inputGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  }
+}
