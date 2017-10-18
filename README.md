@@ -50,7 +50,8 @@ Version 1.0.0 of the Splunk Addon for InQuest is compatible with:
 
 **Support**
 
-Contact support@inquest.net.
+Contact support@inquest.net for email support during weekday business hours
+(US, East Coast).
 
 ## INSTALLATION AND CONFIGURATION
 
