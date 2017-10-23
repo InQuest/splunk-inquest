@@ -31,7 +31,7 @@
 | Create an index | false |
 | Implements summarization | false |
 
-The Splunk Addon for InQuest allows a Splunk® Enterprise administrator o
+The Splunk Addon for InQuest allows a Splunk® Enterprise administrator to
 search and build visualizations and alerts for InQuest device logs.
 
 #### Release notes
