@@ -25,7 +25,7 @@
 
 | Author | InQuest Labs |
 | --- | --- |
-| App Version | 1.0.0 |
+| App Version | 1.1.0 |
 | Vendor Products | InQuest 3.80+ |
 | Has index-time operations | false |
 | Create an index | false |
@@ -38,7 +38,7 @@ search and build visualizations and alerts for InQuest device logs.
 
 ##### About this release
 
-Version 1.0.0 of the Splunk Addon for InQuest is compatible with:
+Version 1.1.0 of the Splunk Addon for InQuest is compatible with:
 
 | Splunk Enterprise versions | Verified with 6.5 and 6.6 |
 | --- | --- |
